@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="7e9322d0-354e-4dc6-90c7-898c634a6db5" name="ProjetAgile" url="jdbc:oracle:thin:@localhost:1521:XE" driverClass="oracle.jdbc.OracleDriver" />
+    </data-sources>
+  </component>
+</project>
